@@ -10,7 +10,7 @@ There are 10 Food classes(chicken_curry, chicken_wings, fried_rice, grilled_salm
 * EfficientNet B7
 
 
-# Performance
+# Performance (accuracy) 
 * Scratch CNN - 80%
 * ResNet50 - 91%
 * Inception V3 - 89%
