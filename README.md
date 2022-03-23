@@ -4,14 +4,14 @@ There are 10 Food classes(chicken_curry, chicken_wings, fried_rice, grilled_salm
 
 
 # USED ARCHITECTURE
-Scratch CNN
-ResNet50
-Inception V3
-EfficientNet B7
+* Scratch CNN
+* ResNet50
+* Inception V3
+* EfficientNet B7
 
 
 # Performance
-Scratch CNN - 80%
-ResNet50 - 91%
-Inception V3 - 89%
-EfficientNet B7 - 93%
+* Scratch CNN - 80%
+* ResNet50 - 91%
+* Inception V3 - 89%
+* EfficientNet B7 - 93%
